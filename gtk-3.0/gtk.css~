@@ -5,7 +5,7 @@
 @define-color fg_color #2c2c2c;
 @define-color base_color #f7f7f7;
 @define-color text_color #2c2c2c;
-@define-color selected_bg_color #89cff0;
+@define-color selected_bg_color #4169e1;
 @define-color selected_fg_color #f7f7f7;
 @define-color tooltip_bg_color #2c2c2c;
 @define-color tooltip_fg_color #d4d4d4;
@@ -37,7 +37,7 @@
 @define-color question_bg_color rgb (252, 229, 213);
 @define-color error_fg_color rgb (185, 74, 72);
 @define-color error_bg_color rgb (242, 222, 222);
-@define-color link_color #89cff0;
+@define-color link_color #4169e1;
 @define-color success_color #53a93f;
 @define-color warning_color #f57900;
 @define-color error_color #cc0000;

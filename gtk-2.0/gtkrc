@@ -1,6 +1,6 @@
 # Romix GTK Theme by Rohith Madhavan
 
-gtk-color-scheme = "bg_color:#d4d4d4\nfg_color:#2c2c2c\nbase_color:#f7f7f7\ntext_color:#2c2c2c\nselected_bg_color:#4169e1\nselected_fg_color:#f7f7f7\ntooltip_bg_color:#2c2c2c\ntooltip_fg_color:#d4d4d4\ntitlebar_bg_color:#d4d4d4\ntitlebar_fg_color:#2c2c2c\nmenubar_bg_color:#d4d4d4\nmenubar_fg_color:#2c2c2c\ntoolbar_bg_color:#d4d4d4\ntoolbar_fg_color:#2c2c2c\nmenu_bg_color:#d4d4d4\nmenu_fg_color:#2c2c2c\npanel_bg_color:#d4d4d4\npanel_fg_color:#2c2c2c\nlink_color:#4169e1"
+gtk-color-scheme = "bg_color:#ededed\nfg_color:#2c2c2c\nbase_color:#f7f7f7\ntext_color:#2c2c2c\nselected_bg_color:#4169e1\nselected_fg_color:#f7f7f7\ntooltip_bg_color:#2c2c2c\ntooltip_fg_color:#ededed\ntitlebar_bg_color:#ededed\ntitlebar_fg_color:#2c2c2c\nmenubar_bg_color:#ededed\nmenubar_fg_color:#2c2c2c\ntoolbar_bg_color:#ededed\ntoolbar_fg_color:#2c2c2c\nmenu_bg_color:#ededed\nmenu_fg_color:#2c2c2c\npanel_bg_color:#ededed\npanel_fg_color:#2c2c2c\nlink_color:#4169e1"
 
 # Default Style
 

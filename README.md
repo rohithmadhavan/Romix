@@ -6,8 +6,6 @@ Rohith Madhavan <rohithmadhavan@gmail.com>
 Based on:
 Numix [Numix Project](http://numixproject.org).
 
-![alt tag](https://github.com/rohithmadhavan/Romix/blob/master/Romix.png)
-
 ### Manual installation
 
 Extract the zip file to the themes directory i.e. `/usr/share/themes/`
