@@ -1,7 +1,7 @@
 Romix is a modern flat theme with an OS X like appearance.
 
 By:
-Rohith Madhavan <rohithmadhavan@gmail.com>
+Rohith Madhavan
 
 Based on:
 Numix [Numix Project](http://numixproject.org).
